@@ -131,7 +131,8 @@ table {
 body {
   margin: 0;
   font-family: "coder", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans",
-    "Droid Sans", "Helvetica Neue", sans-serif;
+    "Droid Sans", "Helvetica Neue", "Chakra Petch", sans-serif;
+  
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
