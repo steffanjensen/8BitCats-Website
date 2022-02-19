@@ -34,6 +34,7 @@ export const StyledRoundButton = styled.button`
   border: none;
   background-color: var(--primary);
   padding: 10px;
+  font-family: Chakra Petch,sans-serif;
   font-weight: bold;
   font-size: 15px;
   color: var(--primary-text);
@@ -314,7 +315,7 @@ function get_all_nfts(){
               }}
             >
 
-          <s.TextTitle style={{ textAlign: "center", color: "var(--accent-text)", font-family: "Chakra Petch,sans-serif" }}>
+          <s.TextTitle style={{ textAlign: "center", color: "var(--accent-text)" }}>
 
      Just a Sweetkittens
      </s.TextTitle>
