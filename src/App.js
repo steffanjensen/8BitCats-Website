@@ -314,7 +314,7 @@ function get_all_nfts(){
               }}
             >
 
-          <s.TextTitle style={{ textAlign: "center", color: "var(--accent-text)" }}>
+          <s.TextTitle style={{ textAlign: "center", color: "var(--accent-text)", font-family: "Chakra Petch,sans-serif" }}>
 
      Just a Sweetkittens
      </s.TextTitle>
